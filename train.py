@@ -1,4 +1,5 @@
-#import numpy as np
+#train 
+import numpy as np
 import cv2
 from keras.emotion_models import Sequential
 from keras.layers import Dense, Dropout, Flatten
